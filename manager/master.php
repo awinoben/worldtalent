@@ -134,16 +134,16 @@
                         </ul>
                     </li>
                     <li><a><i class="fa fa-plus-square"></i> Talent Prescriptions<span class="fa fa-chevron-down"></span></a>
-                    <ul class="nav child_menu">
+                             <ul class="nav child_menu">
                             <li><a href="preambleHome.php">Preambles</a>  
-                            <li><a href="#">Key Talent/Leraning Prescription Delimiters(LPD)</a> 
-                            <li><a href="#">Talent Prescription Tasks</a> 
-                            <li><a href="#">Resources</a> 
-                            <li><a href="#">Activities</a> 
-                            <li><a href="#">Outcomes</a>  
+                            <li><a href="lpdHome.php">Key Talent/Leraning Prescription Delimiters(LPD)</a> 
+                            <li><a href="prescriptiontasksHome.php">Talent Prescription Tasks</a> 
+                            <li><a href="resourcesHome.php">Resources</a> 
+                            <li><a href="activitiesHome.php">Activities</a> 
+                            <li><a href="outcomesHome.php">Outcomes</a>  
                             </li>
                             </ul>
-                            </li>
+                     </li>
                     <li><a href="statementhome.php"><i class="fa fa-edit"></i>Expert Statements</a></li>
                     <li><a href="professionalhome.php"><i class="fa fa-dashcube"></i>Professional Delimeters</a></li>
                     <li><a href="conclusionshome.php"><i class="fa fa-pencil-square"></i> Conclusions and Recommendations</a></li>

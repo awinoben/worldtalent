@@ -191,7 +191,8 @@
                     <li><a><i class="fa fa-bookmark"></i>System Summary<span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
                             <li><a href="summary.php">Summary Setup</a></li>
-                            <li><a href="general.php">General Reports</a></li>
+                            <li><a href="general.php">General Report</a></li>
+                            <li><a href="talentreport.php">Talent Report</a></li>
                         </ul>
                     </li>
                     <li><a><i class="fa fa-bookmark"></i>Talent Prescriptions<span class="fa fa-chevron-down"></span></a>
